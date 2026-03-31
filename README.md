@@ -1,8 +1,8 @@
 # Open Source Software Audit
 
 ## Student Details
-- Name: Nikhil Gurnani  
-- Roll Number: 24BSA10209  
+- Name: Abhijit Mishra
+- Roll Number: 24BEC10033
 
 ---
 
